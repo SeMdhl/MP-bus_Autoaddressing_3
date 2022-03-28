@@ -21,19 +21,19 @@ C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Mp_v2.h(124,44): warning C4267:
 C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Mp_v2.h(129,44): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
 C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Mp_v2.h(139,44): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
 C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Mp_v2.h(144,44): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\mdahl\JOBB\11VisualStudio\VS_c++\VAV_Adressering_3\VAV_Adressering_3\Source.cpp(89,41): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\mdahl\JOBB\11VisualStudio\VS_c++\VAV_Adressering_3\VAV_Adressering_3\Source.cpp(99,47): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\mdahl\JOBB\11VisualStudio\VS_c++\VAV_Adressering_3\VAV_Adressering_3\Source.cpp(105,47): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\mdahl\JOBB\11VisualStudio\VS_c++\VAV_Adressering_3\VAV_Adressering_3\Source.cpp(123,53): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\mdahl\JOBB\11VisualStudio\VS_c++\VAV_Adressering_3\VAV_Adressering_3\Source.cpp(136,59): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\mdahl\JOBB\11VisualStudio\VS_c++\VAV_Adressering_3\VAV_Adressering_3\Source.cpp(169,53): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\mdahl\JOBB\11VisualStudio\VS_c++\VAV_Adressering_3\VAV_Adressering_3\Source.cpp(183,59): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\mdahl\JOBB\11VisualStudio\VS_c++\VAV_Adressering_3\VAV_Adressering_3\Source.cpp(194,59): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\mdahl\JOBB\11VisualStudio\VS_c++\VAV_Adressering_3\VAV_Adressering_3\Source.cpp(205,59): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\mdahl\JOBB\11VisualStudio\VS_c++\VAV_Adressering_3\VAV_Adressering_3\Source.cpp(212,57): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\mdahl\JOBB\11VisualStudio\VS_c++\VAV_Adressering_3\VAV_Adressering_3\Source.cpp(220,57): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\mdahl\JOBB\11VisualStudio\VS_c++\VAV_Adressering_3\VAV_Adressering_3\Source.cpp(228,57): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\mdahl\JOBB\11VisualStudio\VS_c++\VAV_Adressering_3\VAV_Adressering_3\Source.cpp(236,57): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mdahl\JOBB\11VisualStudio\VS_c++\VAV_Adressering_3\VAV_Adressering_3\Source.cpp(98,41): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mdahl\JOBB\11VisualStudio\VS_c++\VAV_Adressering_3\VAV_Adressering_3\Source.cpp(108,47): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mdahl\JOBB\11VisualStudio\VS_c++\VAV_Adressering_3\VAV_Adressering_3\Source.cpp(114,47): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mdahl\JOBB\11VisualStudio\VS_c++\VAV_Adressering_3\VAV_Adressering_3\Source.cpp(132,53): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mdahl\JOBB\11VisualStudio\VS_c++\VAV_Adressering_3\VAV_Adressering_3\Source.cpp(145,59): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mdahl\JOBB\11VisualStudio\VS_c++\VAV_Adressering_3\VAV_Adressering_3\Source.cpp(178,53): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mdahl\JOBB\11VisualStudio\VS_c++\VAV_Adressering_3\VAV_Adressering_3\Source.cpp(192,59): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mdahl\JOBB\11VisualStudio\VS_c++\VAV_Adressering_3\VAV_Adressering_3\Source.cpp(203,59): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mdahl\JOBB\11VisualStudio\VS_c++\VAV_Adressering_3\VAV_Adressering_3\Source.cpp(214,59): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mdahl\JOBB\11VisualStudio\VS_c++\VAV_Adressering_3\VAV_Adressering_3\Source.cpp(221,57): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mdahl\JOBB\11VisualStudio\VS_c++\VAV_Adressering_3\VAV_Adressering_3\Source.cpp(229,57): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mdahl\JOBB\11VisualStudio\VS_c++\VAV_Adressering_3\VAV_Adressering_3\Source.cpp(237,57): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mdahl\JOBB\11VisualStudio\VS_c++\VAV_Adressering_3\VAV_Adressering_3\Source.cpp(245,57): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\xstring(2468,23): warning C4244: 'argument': conversion from 'wchar_t' to 'const _Elem', possible loss of data
           with
           [
@@ -74,8 +74,8 @@ C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Mp_v2.h(170): message : see ref
               _Alloc=std::allocator<char>
           ]
   Generating code
-  1 of 661 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+  3 of 679 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
-    2 functions had inline decision re-evaluated but remain unchanged
+    5 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
   VAV_Adressering_3.vcxproj -> C:\Users\mdahl\JOBB\11VisualStudio\VS_c++\VAV_Adressering_3\x64\Release\VAV_Adressering_3.exe

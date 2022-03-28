@@ -43,8 +43,8 @@ C:\Users\mdahl\JOBB\11VisualStudio\mdhl_lib\mdhl_Mp_v2.h(170): message : see ref
               _Alloc=std::allocator<char>
           ]
   Generating code
-  1 of 662 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+  15 of 680 functions ( 2.2%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
-    2 functions had inline decision re-evaluated but remain unchanged
+    4 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
   VAV_Adressering_3.vcxproj -> C:\Users\mdahl\JOBB\11VisualStudio\VS_c++\VAV_Adressering_3\Release\VAV_Adressering_3.exe
